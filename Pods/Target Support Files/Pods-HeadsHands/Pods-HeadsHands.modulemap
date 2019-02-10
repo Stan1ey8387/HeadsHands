@@ -1,0 +1,6 @@
+module Pods_HeadsHands {
+  umbrella header "Pods-HeadsHands-umbrella.h"
+
+  export *
+  module * { export * }
+}
